@@ -1,2 +1,1 @@
 <?php
-array(s)
