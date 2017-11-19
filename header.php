@@ -1,1 +1,2 @@
 <?php
+  $_COOKIE ($steamauth)
